@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Charter/Charter.iml" filepath="$PROJECT_DIR$/Charter/Charter.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharterProject.iml" filepath="$PROJECT_DIR$/CharterProject.iml" />
     </modules>
   </component>
