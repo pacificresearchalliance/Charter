@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.3"
 
     defaultConfig {
-        applicationId "help.pacificresearchalliance.com"
+        applicationId "charter.pacificresearchalliance.com"
         minSdkVersion 22
         targetSdkVersion 25
     }
