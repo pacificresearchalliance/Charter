@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.pacificresearchalliance.charter.dummy.DummyContent;
+import com.pacificresearchalliance.charter.document.DocumentContent;
 
 /**
  * A list fragment representing a list of Sections. This fragment
@@ -30,7 +30,7 @@ public class SectionListFragment extends ListFragment {
      * The fragment's current callback object, which is notified of list item
      * clicks.
      */
-    private Callbacks mCallbacks = sDummyCallbacks;
+    private Callbacks mCallbacks = sDocumentCallbacks;
 
     /**
      * The current activated item position. Only used on tablets.
@@ -50,10 +50,10 @@ public class SectionListFragment extends ListFragment {
     }
 
     /**
-     * A dummy implementation of the {@link com.pacificresearchalliance.charter.SectionListFragment.Callbacks} interface that does
+     * A document implementation of the {@link com.pacificresearchalliance.charter.SectionListFragment.Callbacks} interface that does
      * nothing. Used only when this fragment is not attached to an activity.
      */
-    private static Callbacks sDummyCallbacks = new Callbacks() {
+    private static Callbacks sDocumentCallbacks = new Callbacks() {
         @Override
         public void onItemSelected(String id) {
         }
@@ -71,11 +71,11 @@ public class SectionListFragment extends ListFragment {
         super.onCreate(savedInstanceState);
 
         // TODO: replace with a real list adapter.
-        setListAdapter(new ArrayAdapter<DummyContent.DummyItem>(
+        setListAdapter(new ArrayAdapter<DocumentContent.DocumentItem>(
                 getActivity(),
                 android.R.layout.simple_list_item_activated_1,
                 android.R.id.text1,
-                DummyContent.ITEMS));
+                DocumentContent.ITEMS));
     }
 
     @Override
@@ -105,8 +105,8 @@ public class SectionListFragment extends ListFragment {
     public void onDetach() {
         super.onDetach();
 
-        // Reset the active callbacks interface to the dummy implementation.
-        mCallbacks = sDummyCallbacks;
+        // Reset the active callbacks interface to the document implementation.
+        mCallbacks = sDocumentCallbacks;
     }
 
     @Override
@@ -115,7 +115,7 @@ public class SectionListFragment extends ListFragment {
 
         // Notify the active callbacks interface (the activity, if the
         // fragment is attached to one) that an item has been selected.
-        mCallbacks.onItemSelected(DummyContent.ITEMS.get(position).id);
+        mCallbacks.onItemSelected(DocumentContent.ITEMS.get(position).id);
     }
 
     @Override

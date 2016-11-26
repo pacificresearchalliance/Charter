@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 
-import com.pacificresearchalliance.charter.dummy.DummyContent;
+import com.pacificresearchalliance.charter.document.DocumentContent;
 
 /**
  * A fragment representing a single Section detail screen.
@@ -24,9 +24,9 @@ public class SectionDetailFragment extends Fragment {
     public static final String ARG_ITEM_ID = "item_id";
 
     /**
-     * The dummy content this fragment is presenting.
+     * The document content this fragment is presenting.
      */
-    private DummyContent.DummyItem mItem;
+    private DocumentContent.DocumentItem mItem;
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -40,10 +40,10 @@ public class SectionDetailFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         if (getArguments().containsKey(ARG_ITEM_ID)) {
-            // Load the dummy content specified by the fragment
+            // Load the document content specified by the fragment
             // arguments. In a real-world scenario, use a Loader
             // to load content from a content provider.
-            mItem = DummyContent.ITEM_MAP.get(getArguments().getString(ARG_ITEM_ID));
+            mItem = DocumentContent.ITEM_MAP.get(getArguments().getString(ARG_ITEM_ID));
         }
     }
 
@@ -52,7 +52,7 @@ public class SectionDetailFragment extends Fragment {
             Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_section_detail, container, false);
 
-        // Show the dummy content as text in a TextView.
+        // Show the document content as text in a TextView.
         /*if (mItem != null) {
             ((TextView) rootView.findViewById(R.id.section_detail)).setText(mItem.content);
         }*/
