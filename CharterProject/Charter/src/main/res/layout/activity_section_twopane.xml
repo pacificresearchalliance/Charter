@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/section_list"
-        android:name="info.upperechelon.charter.SectionListFragment"
+        android:name="com.pacificresearchalliance.charter.SectionListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"

@@ -1,4 +1,4 @@
-package info.upperechelon.charter;
+package com.pacificresearchalliance.charter;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import info.upperechelon.charter.dummy.DummyContent;
+import com.pacificresearchalliance.charter.dummy.DummyContent;
 
 /**
  * A list fragment representing a list of Sections. This fragment
@@ -15,7 +15,7 @@ import info.upperechelon.charter.dummy.DummyContent;
  * 'activated' state upon selection. This helps indicate which item is
  * currently being viewed in a {@link SectionDetailFragment}.
  * <p>
- * Activities containing this fragment MUST implement the {@link info.upperechelon.charter.SectionListFragment.Callbacks}
+ * Activities containing this fragment MUST implement the {@link com.pacificresearchalliance.charter.SectionListFragment.Callbacks}
  * interface.
  */
 public class SectionListFragment extends ListFragment {
@@ -50,7 +50,7 @@ public class SectionListFragment extends ListFragment {
     }
 
     /**
-     * A dummy implementation of the {@link info.upperechelon.charter.SectionListFragment.Callbacks} interface that does
+     * A dummy implementation of the {@link com.pacificresearchalliance.charter.SectionListFragment.Callbacks} interface that does
      * nothing. Used only when this fragment is not attached to an activity.
      */
     private static Callbacks sDummyCallbacks = new Callbacks() {

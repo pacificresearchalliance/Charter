@@ -1,4 +1,4 @@
-package info.upperechelon.charter.dummy;
+package com.pacificresearchalliance.charter.dummy;
 
 import java.util.ArrayList;
 import java.util.HashMap;

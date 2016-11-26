@@ -1,4 +1,4 @@
-package info.upperechelon.charter;
+package com.pacificresearchalliance.charter;
 
 import android.content.Intent;
 import android.os.Bundle;

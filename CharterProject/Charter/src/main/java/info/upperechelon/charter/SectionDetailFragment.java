@@ -1,4 +1,4 @@
-package info.upperechelon.charter;
+package com.pacificresearchalliance.charter;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 
-import info.upperechelon.charter.dummy.DummyContent;
+import com.pacificresearchalliance.charter.dummy.DummyContent;
 
 /**
  * A fragment representing a single Section detail screen.
