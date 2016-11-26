@@ -60,9 +60,8 @@ public class SectionDetailFragment extends Fragment {
             ((WebView) rootView.findViewById(R.id.section_detail)).loadUrl("file:///android_asset/" + mItem.id + ".html");
         }
 
-       // ((SectionDetailActivity) getActivity()).setActionBarTitle(mItem.content);
-       // getActivity().getSupportActionBar().setSubtitle("foo");
-
+        //getActivity().getActionBar().setSubtitle("foo");
+        getActivity().getActionBar().setSubtitle(mItem.content);
 
         return rootView;
     }
