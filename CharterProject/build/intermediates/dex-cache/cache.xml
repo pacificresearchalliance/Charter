@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_263c250250eb9a76cd9cb16fcdaaf143e71eaba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_cc5c4f3bcceb515520d74e374dd6882478c1f477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_1e709386a61b4e06092247a46f901e56a19e0758\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_2488329eb28ae56374ceea28a9608bf1a589b4f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="447318c3776252fdac1b057a20376fe51288d7b8">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b07c66ee023eeb8edf1aaa53345fc4cc519370f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f95df4f0c81b77089c6fe6d6ba2d4557b5bc633a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_70b8153081cad26ba4158553d8716d989b737d6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anthony\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_50c819cfe6e895e1c3f6128fc3fd929adf89b0e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_435d0332e0d765fb129f9b84c2c75e17eb126270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ab1d88e1e498dd6ea0ffa71b8034066af68d7c4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_a07084ef40d739c7e564c9ef0e8d18715a44ac6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_21f470dcb2a3d96887e08abef479ef28d6949374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b514b2c37eb6844be2f04bb9ac3c9865a69618df">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63af0126bc53b5d049424b1a21038c0772f646b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6f7fbb1b8fe30b3873d31b347c0da007bce6ecb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_68900c3e16cfc652d3118eb3adf2c4739bd72086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_1ffee915dcea67385c5a6b62f652d2431ef561c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b6628e879976734cd10af26603f864cb8f103668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_d060d892b766f1549282c61ac11f0339b0dd52f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="J:\Secure\PRA\Development\github\Charter\CharterProject\Charter\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4dffd07cea3eb08df36c1d717f1bd3006e9fb076\classes.dex" />
+    </item>
+
+</items>
